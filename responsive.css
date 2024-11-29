@@ -1,0 +1,1260 @@
+/* 1400 SCREEN */
+
+@media (max-width:1600px) {
+    #menuToggle {
+        display: none;
+    }
+
+
+    .slidersec .row {
+        height: 70vh;
+    }
+
+    .photogallerysec .img-popup img {
+        max-width: 750px;
+    }
+
+    .photogallerysec .aboutgallery {
+        padding-bottom: 20px;
+    }
+}
+
+
+/* 1170 SCREEN */
+
+
+@media (max-width:1399px) {
+
+    #menuToggle {
+        display: none;
+    }
+
+    .header .leftnavbar ul {
+        padding: 40px 20px;
+        gap: 40px;
+    }
+
+    .progresscounting .submitionclear {
+        padding: 0px 49px;
+    }
+
+
+    .slidersec .brandtittleheading h1 {
+        font-size: 40px;
+    }
+
+    .slidersec .row {
+        height: 60vh;
+    }
+
+    .slidersec .brandtittleheading h1 {
+        font-size: 40px;
+    }
+
+    .header .rightnavbar ul {
+        padding: 30px 20px;
+        gap: 20px;
+    }
+
+    .eventssection .infobox {
+        padding: 30px 15px 10px;
+    }
+
+    .eventssection .infobox span {
+        font-size: 21px;
+        padding: 10px;
+    }
+
+    .eventssection .infobox p {
+        font-size: 13px;
+    }
+
+    .eventssection .infobox img {
+        width: 30px;
+    }
+
+    .evenizer .eventsplannersugg {
+        padding: 80px 0;
+    }
+
+
+    .evenizer .drink img {
+        width: 280px;
+    }
+
+    .evenizer .drink {
+        top: 150px;
+        right: 20px;
+    }
+
+    .evenizer .preheading h6 {
+        font-size: 15px;
+    }
+
+    .evenizer .mainheading h1 {
+        font-size: 30px;
+    }
+
+    .evenizer .evenizerpara p {
+        font-size: 13px;
+    }
+
+    .evenizer .experience {
+        width: 200px;
+        height: 200px;
+    }
+
+    .evenizer .experiencecontent {
+        transform: translate(0%, 20%);
+    }
+
+    .evenizer .experiencecontent p {
+        font-size: 13px;
+    }
+
+    .evenizer .allservices span {
+        font-size: 13px;
+    }
+
+    .evenizer .allservices {
+        padding: 7px;
+    }
+
+    .evenizer .aboutusbtn {
+        padding: 30px 0;
+    }
+
+    .evenizer {
+        padding-bottom: 0;
+    }
+
+    .everyfestivalsplanner .guidingservices h1 {
+        font-size: 30px;
+    }
+
+    .everyfestivalsplanner .guidingservices p {
+        font-size: 13px;
+    }
+
+    .everyfestivalsplanner .allprogramsdisplay {
+        padding: 10px;
+    }
+
+    .everyfestivalsplanner .allprogramsdisplay p {
+        font-size: 13px;
+    }
+
+    .everyfestivalsplanner .allprogramsdisplay a {
+        font-size: 13px;
+    }
+
+    .awaitingevents .upcompingeventsheading {
+        padding: 60px 0 0;
+    }
+
+    .awaitingevents .activitiesheading h1 {
+        font-size: 30px;
+    }
+
+    .activitiesheading p {
+        font-size: 13px;
+    }
+
+    .awaitingevents .concertinformation p {
+        font-size: 13px;
+    }
+
+    .awaitingevents .eventsblogone {
+        padding: 0;
+    }
+
+    .awaitingevents .blogcontentone {
+        padding: 20px;
+    }
+
+    .awaitingevents .partyinformation {
+        padding: 10px 20px;
+    }
+
+    .awaitingevents .blogonebtn a {
+        font-size: 13px;
+        padding: 10px 10px;
+    }
+
+    .awaitingevents .partyinformation h1 {
+        font-size: 30px;
+    }
+
+    .awaitingevents .partyinformation p {
+        font-size: 13px;
+    }
+
+    .awaitingevents .blogsecondbtn a {
+        padding: 10px 10px;
+        font-size: 13px;
+    }
+
+    .awaitingevents .blogsecondbtn {
+        padding: 30px 0;
+    }
+
+    .awaitingevents .concertinformation {
+        padding: 10px 10px;
+    }
+
+    .awaitingevents .blogcontentsecond {
+        padding: 20px 0px 0px 40px;
+    }
+
+    .photogallerysec .aboutgallery h1 {
+        font-size: 30px;
+    }
+
+    .aboutgallery p {
+        font-size: 13px;
+    }
+
+    .clientsec {
+        padding: 50px;
+    }
+
+    .clientsec .clientheading h1 {
+        font-size: 30px;
+    }
+
+    .clientsec .seemorebtn a {
+        padding: 10px 10px;
+        font-size: 13px;
+    }
+
+    .clientsec .clientheading p {
+        font-size: 13px;
+    }
+
+    .clientsec .robertblog {
+        padding: 20px 20px 20px;
+    }
+
+    .clientsec .robertcontent p {
+        font-size: 13px;
+    }
+
+    .clientsec .clientheading p {
+        font-size: 13px;
+    }
+
+    .clientsec .jerryblog {
+        padding: 20px 20px 20px;
+    }
+
+    .clientsec .jerrycontent p {
+        font-size: 13px;
+    }
+
+    .clientsec .clientheading p {
+        font-size: 13px;
+    }
+
+    .clientsec .amandablog {
+        padding: 20px 20px 20px;
+    }
+
+    .clientsec .amandacontent p {
+        font-size: 13px;
+    }
+
+    .clientsec .clientportfolio {
+        padding-bottom: 0;
+    }
+
+    .getintouchsec .getintouchheading h1 {
+        font-size: 30px;
+    }
+
+    .getintouchheading p {
+        font-size: 13px;
+    }
+
+    .getintouchsec .getintouchbtn a {
+        padding: 10px 10px;
+        font-size: 13px;
+    }
+
+    .getintouchbtn {
+        padding-top: 10px;
+    }
+
+    .newblogandarticles .articlescontent h1 {
+        font-size: 17px;
+    }
+
+    .newblogandarticles .articlescontent p {
+        font-size: 13px;
+    }
+
+    .newblogandarticles .articlesheading h1 {
+        font-size: 30px;
+    }
+
+    .newblogandarticles .articlesheading p {
+        font-size: 13px;
+        padding: 0px 100px;
+    }
+
+    .footer {
+        padding: 70px;
+    }
+
+    .footer .footerinfo {
+        padding: 0;
+    }
+
+    .footer .footerinfo i {
+        padding: 0;
+    }
+}
+
+
+
+
+/* 992 SCREEN */
+
+
+
+
+
+@media (max-width:1169px) {
+
+    .progresscounting .submitionclear {
+        padding: 0px 58px;
+    }
+
+    #menuToggle {
+        display: none;
+    }
+
+    .slidersec .learnmore .headerlearnbtn {
+        padding: 8px 8px;
+        font-size: 12px;
+    }
+
+    .slidersec .learnmore .videoplayer .videosign {
+        padding: 3px 9px;
+    }
+
+    .slidersec .videoplayer span {
+        font-size: 13px;
+        padding-left: 5px;
+    }
+
+    .progresscounting .numeric h2 {
+        font-size: 25px;
+    }
+
+    .submitionclear p {
+        font-size: 13px;
+    }
+
+    .awaitingevents .ourevents h6 {
+        font-size: 15px;
+    }
+
+    .everyfestivalsplanner .guidingservices {
+        padding: 50px 0 0;
+    }
+
+    .awaitingevents .upcompingeventsheading {
+        padding: 50px 0 10px;
+    }
+
+    .evenizer .eventsplannersugg {
+        padding: 80px 0 50px;
+    }
+
+    .evenizer .aboutusbtn a {
+        padding: 9px 12px;
+        font-size: 12px;
+    }
+
+    .awaitingevents .blogonebtn a {
+        padding: 9px 12px;
+        font-size: 12px;
+    }
+
+    .awaitingevents .blogsecondbtn a {
+        padding: 9px 12px;
+        font-size: 12px;
+    }
+
+    section.brandlogoslidder {
+        padding: 0;
+    }
+
+    .brandlogoslidder .brandslidder img {
+        width: 110px;
+    }
+
+    .brandlogoslidder .brandslidder {
+        padding: 40px 0 40px;
+    }
+
+    .img-holder {
+        margin-bottom: 10px;
+    }
+
+    .photogallerysec .img-popup img {
+        max-width: 600px;
+    }
+
+    .footer .quicklinks h4 {
+        font-size: 20px;
+    }
+
+    .footer .usefullinks h4 {
+        font-size: 20px;
+    }
+
+    .footer .newsletter h4 {
+        font-size: 20px;
+    }
+
+    .footer .footerlogo p {
+        font-size: 13px;
+    }
+
+    .footer .footerinfo span {
+        font-size: 13px;
+    }
+
+    .footer .footerlinks a {
+        font-size: 13px;
+    }
+
+    .footer .securitylinks a {
+        font-size: 13px;
+    }
+
+    .footer .typeemail {
+        padding: 10px;
+    }
+
+    .footer .newsletterparagraph p {
+        font-size: 13px;
+    }
+
+    .footer .sumbitbtn {
+        padding: 10px;
+    }
+
+}
+
+
+
+/* 780 SCREEN */
+
+
+
+
+@media (max-width:991px) {
+
+    #menuToggle {
+        display: none;
+    }
+
+    .usefulmobile {
+        padding: 0;
+    }
+
+    .progresscounting .submitionclear {
+        padding: 0px 31px;
+    }
+
+    .slidersec .learnmore .headerlearnbtn {
+        font-size: 10px;
+        padding: 7px 7px;
+    }
+
+    .slidersec .learnmore .videoplayer .videosign {
+        padding: 2px 8px;
+    }
+
+    .header .leftnavbar ul {
+        padding: 30px 0px;
+    }
+
+    .header .rightnavbar ul {
+        padding: 20px 0;
+    }
+
+    .slidersec .brandtittleheading h1 {
+        font-size: 30px;
+    }
+
+    .slidersec .brandtittleparagraph p {
+        font-size: 12px;
+    }
+
+    .leftnavbar ul li a {
+        font-size: 12px;
+    }
+
+    .rightnavbar ul li a {
+        font-size: 12px;
+        padding-right: 7px;
+    }
+
+    .eventssection .infobox span {
+        font-size: 15px;
+        padding: 0;
+    }
+
+    .eventssection .infobox p {
+        font-size: 10px;
+    }
+
+    .eventssection .infobox img {
+        width: 25px;
+    }
+
+    .evenizer .eventsplannersugg {
+        padding: 40px 0 0px;
+    }
+
+    .evenizer .drink img {
+        width: 230px;
+    }
+
+    .evenizer .drink {
+        top: 90px;
+        right: -10px;
+    }
+
+    .evenizer .evenizersecondcolumn {
+        padding: 50px 0 0;
+    }
+
+    .evenizer .mainheading h1 {
+        font-size: 25px;
+    }
+
+    .evenizer .evenizerpara p {
+        font-size: 10px;
+        padding: 0;
+    }
+
+    .evenizer .experience {
+        width: 138px;
+        height: 140px;
+    }
+
+    .evenizer .experiencecontent i {
+        font-size: 40px;
+    }
+
+    .evenizer .experiencecontent h4 {
+        font-size: 25px;
+    }
+
+    .evenizer .experiencecontent .plus {
+        font-size: 20px;
+    }
+
+    .evenizer .experiencecontent p {
+        font-size: 12px;
+    }
+
+    .evenizer .experiencecontent {
+        transform: translate(0%, 15px);
+    }
+
+    .evenizer .allservices span {
+        font-size: 10px;
+    }
+
+    .evenizer .allservices i {
+        font-size: 12px;
+    }
+
+    .evenizer .allservices {
+        padding: 0;
+    }
+
+    .everyfestivalsplanner .guidingservices h1 {
+        font-size: 25px;
+    }
+
+    .everyfestivalsplanner .guidingservices span {
+        font-size: 10px;
+    }
+
+    .everyfestivalsplanner .guidingservices p {
+        font-size: 10px;
+    }
+
+    .everyfestivalsplanner .allprogramsdisplay h1 {
+        font-size: 20px;
+    }
+
+    .everyfestivalsplanner .allprogramsdisplay {
+        padding: 10px;
+        margin: 5px;
+    }
+
+    .everyfestivalsplanner .allprogramsdisplay p {
+        font-size: 10px;
+    }
+
+    .everyfestivalsplanner .allprogramsdisplay a {
+        font-size: 10px;
+    }
+
+    .progresscounting .allicons i {
+        font-size: 30px;
+    }
+
+    .progresscounting .numeric h2 {
+        font-size: 20px;
+    }
+
+    .progresscounting .allicons {
+        padding: 0 20px 0 0;
+    }
+
+    .progresscounting .numeric span {
+        font-size: 20px;
+    }
+
+    .progresscounting {
+        padding: 30px 0 30px;
+    }
+
+    .awaitingevents .ourevents h6 {
+        font-size: 10px;
+    }
+
+    .awaitingevents .activitiesheading h1 {
+        font-size: 25px;
+    }
+
+    .activitiesheading p {
+        font-size: 10px;
+        margin: 0;
+    }
+
+    .awaitingevents .blogcontentone {
+        padding: 10px 0;
+        display: block;
+        text-align: center;
+    }
+
+    .awaitingevents .birthdaypartydate {
+        padding: 10px 0;
+    }
+
+    .birthdaypartydate h1 {
+        font-size: 25px;
+    }
+
+    .birthdaypartydate p {
+        font-size: 15px;
+    }
+
+    .awaitingevents .partyinformation {
+        padding: 10px 10px;
+    }
+
+    .awaitingevents .partyinformation h1 {
+        font-size: 40px;
+    }
+
+    .awaitingevents .partyinformation p {
+        font-size: 15px;
+    }
+
+    .awaitingevents .blogonebtn a {
+        padding: 7px 7px;
+        font-size: 10px;
+    }
+
+    .awaitingevents .blogsecondbtn a {
+        padding: 7px 7px;
+        font-size: 10px;
+    }
+
+    .awaitingevents .blogcontentsecond {
+        padding: 20px 10px 20px;
+        display: block;
+        text-align: center;
+    }
+
+    .awaitingevents .concertinformation h1 {
+        font-size: 40px;
+    }
+
+    .awaitingevents .concertinformation p {
+        font-size: 15px;
+    }
+
+    .awaitingevents .concertdate {
+        padding: 20px 0 0px 5px;
+    }
+
+    .photogallerysec .galleryheading {
+        padding: 50px 0 0;
+    }
+
+    .photogallerysec .seeourbest h6 {
+        font-size: 10px;
+    }
+
+    .photogallerysec .aboutgallery h1 {
+        font-size: 25px;
+    }
+
+    .aboutgallery p {
+        font-size: 10px;
+    }
+
+    .photogallerysec .aboutgallery {
+        padding-bottom: 10px;
+    }
+
+    .clientsec {
+        padding: 30px;
+    }
+
+    .clientsec .clientheading h1 {
+        font-size: 25px;
+    }
+
+    .clientsec .clientminiinfo h6 {
+        font-size: 10px;
+    }
+
+    .clientsec .clientheading p {
+        font-size: 10px;
+    }
+
+    .clientsec .robertcontent p {
+        font-size: 10px;
+        padding-top: 20px;
+    }
+
+    .clientsec .jerrycontent p {
+        font-size: 10px;
+        padding-top: 20px;
+    }
+
+    .clientsec .amandacontent p {
+        font-size: 10px;
+        padding-top: 20px;
+    }
+
+
+    .clientsec .seemorebtn a {
+        padding: 7px 7px;
+        font-size: 10px;
+    }
+
+    .clientsec .robertdetals h2 {
+        font-size: 15px;
+    }
+
+    .clientsec .robertdetals p {
+        font-size: 12px;
+    }
+
+    .clientsec .jerrydetals h2 {
+        font-size: 15px;
+    }
+
+    .clientsec .jerrydetals p {
+        font-size: 12px;
+    }
+
+
+    .clientsec .amandadetals h2 {
+        font-size: 15px;
+    }
+
+    .clientsec .amandadetals p {
+        font-size: 12px;
+    }
+
+    .getintouchsec .getintouchheading h1 {
+        font-size: 25px;
+    }
+
+    .getintouchheading p {
+        font-size: 10px;
+    }
+
+    .getintouchsec .getintouchbtn a {
+        padding: 7px 7px;
+        font-size: 10px;
+    }
+
+    .getintouchsec {
+        padding: 40px;
+    }
+
+    .awaitingevents .blogonebtn {
+        padding: 20px;
+    }
+
+    .newblogandarticles .articlesheading h1 {
+        font-size: 25px;
+    }
+
+    .newblogandarticles .articlesheading p {
+        font-size: 10px;
+    }
+
+    .newblogandarticles .ideasblog {
+        padding: 10px 0;
+    }
+
+    .newblogandarticles .articlescontent h1 {
+        font-size: 15px;
+        margin: 0;
+    }
+
+    .newblogandarticles .articlescontent p {
+        font-size: 10px;
+        margin: 0;
+    }
+
+    .newblogandarticles .activitiesandblogbtn a {
+        font-size: 10px;
+    }
+
+    .newblogandarticles .popbtn a {
+        padding: 10px;
+        font-size: 10px;
+    }
+
+    .footer {
+        padding: 60px 0;
+    }
+
+    .footer .footerlogo p {
+        font-size: 10px;
+    }
+
+    .footer .footerinfo span {
+        font-size: 10px;
+    }
+
+    .footer .quicklinks h4 {
+        font-size: 16px;
+    }
+
+    .footer .usefullinks h4 {
+        font-size: 16px;
+    }
+
+    .footer .newsletter h4 {
+        font-size: 16px;
+    }
+
+    .footer .typeemail {
+        width: 70%;
+    }
+
+    .footer .newsletterparagraph p {
+        font-size: 10px;
+    }
+
+    .footer .footersociallinks a {
+        padding: 7px;
+    }
+
+}
+
+
+
+
+
+
+@media (max-width:767px) {
+
+    .newblogandarticles .ideasblog {
+        padding: 10px 0;
+    }
+
+    
+.usefulmobile {
+    display: table-cell;
+    padding-left:230px ;
+}
+
+
+    .photogallerysec .thirdimageholder img {
+        display: none;
+    }
+
+    #menuToggle {
+        display: block;
+    }
+
+    .progresscounting .submitionclear {
+        display: block;
+        padding: 0;
+        text-align: center;
+    }
+
+    .leftnavbar ul li a {
+        display: none;
+        padding: 0;
+    }
+
+    .rightnavbar ul li a {
+        display: none;
+    }
+
+    .brandlogo {
+        display: none;
+    }
+
+    .lineup {
+        display: none;
+    }
+
+    .eventssection {
+        padding: 0 40px;
+    }
+
+    .eventssection .infobox {
+        text-align: center;
+        margin: 10px;
+    }
+
+    .eventssection .infobox p {
+        padding-top: 10px;
+    }
+
+    .eventssection .infobox img {
+        width: 20px;
+    }
+
+    .evenizer .drink img {
+        width: 300px;
+    }
+
+    .evenizer .drink {
+        top: 160px;
+        right: 0px;
+    }
+
+    .evenizer .evenizersecondcolumn {
+        padding: 10px 0;
+    }
+
+    .evenizer .preheading h6 {
+        font-size: 10px;
+    }
+
+    .everyfestivalsplanner .guidingservices {
+        padding: 30px 0 0;
+    }
+
+    .everyfestivalsplanner .guidingservices p {
+        padding: 0 10px;
+    }
+
+    .allprogramsdisplay {
+        text-align: center;
+    }
+
+    .everyfestivalsplanner .allprogramsdisplay img {
+        width: 40px;
+    }
+
+    .everyfestivalsplanner {
+        padding-bottom: 20px;
+    }
+
+    .submitionclear p {
+        font-size: 10px;
+    }
+
+    .awaitingevents .upcompingeventsheading {
+        padding: 30px 0 10px;
+    }
+
+    .awaitingevents .girlparty img {
+        width: 100%;
+    }
+
+    .awaitingevents .blogcontentone {
+        display: block;
+    }
+
+    .awaitingevents .birthdaypartydate {
+        padding: 10px;
+    }
+
+    .awaitingevents .partyinformation {
+        padding: 10px 0;
+    }
+
+    .awaitingevents .eventsblogone {
+        padding: 0px 20px;
+        text-align: center;
+    }
+
+    .awaitingevents .partyinformation h1 {
+        font-size: 30px;
+    }
+
+    .awaitingevents .partyinformation p {
+        font-size: 13px;
+    }
+
+    .awaitingevents .blogonebtn {
+        padding: 20px 0 40px;
+    }
+
+    .awaitingevents .blogonebtn a {
+        padding: 10px 10px;
+        font-size: 13px;
+    }
+
+    .awaitingevents .blogcontentsecond {
+        display: block;
+        padding: 20px 10px;
+    }
+
+    .awaitingevents .blogsecondbtn {
+        padding: 0;
+    }
+
+    .awaitingevents .concertinformation {
+        padding: 20px;
+    }
+
+    .awaitingevents .concertinformation h1 {
+        font-size: 30px;
+    }
+
+    .awaitingevents .concertinformation p {
+        font-size: 13px;
+    }
+
+    .awaitingevents {
+        padding-bottom: 0;
+    }
+
+    .brandlogoslidder .brandslidder img {
+        width: 100px;
+    }
+
+    .brandlogoslidder .brandslidder {
+        padding: 20px;
+    }
+
+    .photogallerysec .galleryheading {
+        padding: 20px 0 0;
+    }
+
+    .photogallerysec {
+        padding-bottom: 0;
+    }
+
+    .clientsec .clientportfolio {
+        padding: 0 0 30px;
+    }
+
+    .newblogandarticles .articlesheading p {
+        padding: 0;
+    }
+
+    .newblogandarticles .popbtn a {
+        font-size: 15px;
+        padding: 10px 15px;
+    }
+
+    .newblogandarticles .articlescontent h1 {
+        font-size: 20px;
+    }
+
+    .newblogandarticles .articlescontent p {
+        font-size: 12px;
+    }
+
+    .newblogandarticles .activitiesandblogbtn a {
+        font-size: 12px;
+    }
+
+    .latestmarketing {
+        padding: 0 0 30px;
+    }
+
+    .newblogandarticles {
+        padding-bottom: 0;
+    }
+
+    .footer {
+        padding: 30px 10px;
+    }
+
+    .footer .email {
+        padding: 10px 0;
+    }
+
+    .quicklinks {
+        padding: 20px 0 0;
+    }
+
+    .footer .footerinfo span {
+        font-size: 13px;
+    }
+
+    .footer .footerlinks a {
+        font-size: 15px;
+    }
+
+    .footer .footersociallinks {
+        justify-content: center;
+    }
+
+    .footer .quicklinks h4 {
+        font-size: 20px;
+    }
+
+    .footer .usefullinks h4 {
+        font-size: 20px;
+    }
+
+    .footer .newsletter h4 {
+        font-size: 20px;
+    }
+}
+
+
+
+/* 321 SCREEN */
+
+
+
+@media (max-width:479px) {
+
+    .photogallerysec .thirdimageholder img {
+        display: none;
+    }
+
+    .usefulmobile {
+        display: table-cell;
+        padding-left:120px ;
+    }
+    
+
+
+    .newblogandarticles .ideasblog {
+        padding: 10px 30px;
+    }
+
+    #menuToggle {
+        display: block;
+    }
+
+    .leftnavbar ul li a {
+        display: none;
+        padding: 0;
+    }
+
+    .rightnavbar ul li a {
+        display: none;
+    }
+
+    .brandlogo {
+        display: none;
+    }
+
+    .lineup {
+        display: none;
+    }
+
+    .eventssection {
+        padding: 0 0px;
+    }
+
+    .eventssection {
+        padding-bottom: 20px;
+    }
+
+    .evenizer .drink {
+        top: 80px;
+    }
+
+    .evenizer .trophywinningservices {
+        display: block;
+    }
+
+    .evenizer .experience {
+        width: 200px;
+        height: 180px;
+    }
+
+    .evenizer .experiencecontent i {
+        font-size: 50px;
+    }
+
+    .evenizer .experiencecontent h4 {
+        font-size: 30px;
+    }
+
+    .evenizer .experiencecontent p {
+        font-size: 15px;
+    }
+
+    .evenizer .allservices i {
+        font-size: 18px;
+    }
+
+    .evenizer .allservices span {
+        font-size: 15px;
+    }
+
+    .evenizer .allservices {
+        padding: 5px 0;
+    }
+
+    .evenizer .aboutusbtn {
+        padding: 20px 0;
+    }
+
+    .evenizer .drink img {
+        width: 200px;
+    }
+
+    .evenizer .mainheading h1 {
+        font-size: 30px;
+        font-weight: 100;
+    }
+
+    .evenizer .evenizerpara p {
+        font-size: 13px;
+    }
+
+    .evenizer .preheading h6 {
+        font-size: 13px;
+    }
+
+    .progresscounting .allicons i {
+        font-size: 50px;
+    }
+
+    .progresscounting .numeric h2 {
+        font-size: 30px;
+    }
+
+    .submitionclear p {
+        font-size: 15px;
+    }
+
+    .clientsec {
+        padding: 30px 10px;
+    }
+
+}
